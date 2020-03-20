@@ -1,0 +1,8 @@
+#ifndef CASTLES_H
+#define CASTLES_H
+
+class castles{
+    
+};
+
+#endif // CASTLES_H

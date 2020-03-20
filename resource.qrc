@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bg.png</file>
+        <file>img/ball_O.png</file>
+        <file>img/ball_P.png</file>
+        <file>img/ball_Y.png</file>
+        <file>img/burned.png</file>
+        <file>img/sticker/e_0_dis.png</file>
+        <file>img/sticker/e_0.png</file>
+        <file>img/sticker/e_1_dis.png</file>
+        <file>img/sticker/e_1.png</file>
+        <file>img/sticker/e_2_dis.png</file>
+        <file>img/sticker/e_2.png</file>
+        <file>img/sticker/u_0_dis.png</file>
+        <file>img/sticker/u_0.png</file>
+        <file>img/sticker/u_1_dis.png</file>
+        <file>img/sticker/u_1.png</file>
+        <file>img/sticker/u_2.png</file>
+        <file>img/Gameover.png</file>
+        <file>img/YouWin.png</file>
+        <file>img/sticker/u_2_dis.png</file>
+    </qresource>
+</RCC>
